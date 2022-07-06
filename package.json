@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/KINGKAVIYABOT/AQUABOT-MD.git"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "KINGKAVIYA",
+  "developer": "KAVIYA",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/KINGKAVIYABOT/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/KINGKAVIYABOT/AQUABOT-MD",
   "dependencies": {
    
     "@adiwajshing/baileys": "^4.1.0",
