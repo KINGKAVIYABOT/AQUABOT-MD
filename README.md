@@ -1,6 +1,6 @@
 # AQUABOT-MD
 This project is still being tested
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+<p align="center"> <a href="github.com/KINGKAVIYABOT"><img align="center" src="https://telegra.ph/file/d51146c0cf8f47d2d9e7c.jpg"/></a>
  <p align="center">
 <a href="https://github.com/KINGKAVIYABOT/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
 <a href="https://github.com/KINGKAVIYABOT/AQUABOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/AQUABOT-MD?color=blue&style=flat-square"></a>
